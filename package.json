@@ -1,6 +1,6 @@
 {
   "name": "material-ui-search-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Material style search bar",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -50,7 +50,7 @@
   "peerDependencies": {
     "@material-ui/core": "^4.0.0",
     "@material-ui/icons": "^4.0.0",
-    "react": "^16.8.0"
+    "react": "^16.8.0 || ^17.0.0"
   },
   "dependencies": {
     "classnames": "^2.2.5",
